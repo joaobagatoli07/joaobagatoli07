@@ -1,6 +1,6 @@
 ### Hi there! 👋 It's good to have you here. I'm João
 
-<strong>Full Stack Web Developer</strong> 
+## Full Stack Web Developer
 
 <em>Just do what needs to be done 🚀</em>
 
