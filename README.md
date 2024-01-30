@@ -4,7 +4,7 @@
 
 <em>Just do what needs to be done</em>
 
-🎓 Associate Degree at SENAI
+🎓 Graduated at SENAI
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobagatoli07&show_icons=true&theme=radical)
 
