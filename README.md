@@ -1,4 +1,4 @@
-## Hi there! 👋 It's good to have you here. I'm João
+### Hi there! 👋 It's good to have you here. I'm João
 
 ### Full Stack Web Developer 🚀
 
@@ -6,7 +6,7 @@
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobagatoli07&show_icons=true&theme=radical)
 
-### Development Stack 🛠️
+## Development Stack 🛠️
 <div style="display: inline-block;">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt="HTML5">
